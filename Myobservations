@@ -1,0 +1,12 @@
+My Observations on the Linear Regression,Ridge Regression,Lasso Regression are
+In Linear Regression I observed 
+(Training)Mean Squared Error (MSE): 0.0
+(Testing)Mean Squared Error (MSE): 6.302241197692202
+
+In Ridge Regression I observed 
+(Training)Mean Squared Error (MSE): 0.0
+(Testing)Mean Squared Error (MSE): 0.13099614084128555
+
+In Lasso Regression I observed 
+(Training)Mean Squared Error (MSE): 0.0
+(Testing)Mean Squared Error (MSE): 0.19595458728999565
